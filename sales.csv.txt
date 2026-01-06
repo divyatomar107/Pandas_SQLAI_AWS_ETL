@@ -1,0 +1,6 @@
+order_id,region,product,sales
+1,North,Mobile,12000
+2,South,Laptop,45000
+3,North,Tablet,15000
+4,East,Mobile,10000
+5,South,Tablet,18000
